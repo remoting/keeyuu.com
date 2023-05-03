@@ -1,6 +1,9 @@
 docs:
   setup:
     started: setup.html
+  manual:
+    index: manual.html
+
 gen:
   getting_started:
     overview: index.html
