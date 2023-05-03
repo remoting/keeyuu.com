@@ -3,19 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: IOPS
+title: 科语
 subtitle: ' 跳板机 '
 description: ' 堡垒机 '
 keywords: ' 关键字 '
-author: remoting
+author: keeyuu.com
 language: zh_CN
 timezone: Asia/Shanghai
 source_dir: pages
+start: ss
 skip_render: [driver/**, plugin/**, text.html]
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://iops.keeyuu.com
+url: http://www.keeyuu.com
 permalink: :year/:month/:day/:title/
 
 # Writing

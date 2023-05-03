@@ -1,10 +1,10 @@
 ---
 layout: page
-description: The fantastic ORM library for Golang aims to be developer friendly.
-subtitle: The fantastic ORM library for Golang
+description: 
+subtitle: 关于我们
 comments: false
-title: about
+title: 关于我们
 ---
 
 
-about
+关于我们

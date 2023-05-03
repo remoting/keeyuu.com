@@ -1,21 +1,23 @@
 ---
 layout: index
-description: The fantastic ORM library for Golang aims to be developer friendly.
-subtitle: The fantastic ORM library for Golang
+description: 安全 审计 简单 稳定 免费
+subtitle: 安全 审计 简单 稳定 免费
 comments: false
 ---
 
-* <i class="fa fa-rocket" aria-hidden="true"></i> 全功能 ORM
-* <i class="fa fa-rocket" aria-hidden="true"></i> 关联 (拥有一个，拥有多个，属于，多对多，多态，单表继承)
-* <i class="fa fa-rocket" aria-hidden="true"></i> Create，Save，Update，Delete，Find 中钩子方法
-* <i class="fa fa-rocket" aria-hidden="true"></i> 支持 Preload、Joins 的预加载
-* <i class="fa fa-rocket" aria-hidden="true"></i> 事务，嵌套事务，Save Point，Rollback To to Saved Point
-* <i class="fa fa-rocket" aria-hidden="true"></i> Context、预编译模式、DryRun 模式
-* <i class="fa fa-rocket" aria-hidden="true"></i> 批量插入，FindInBatches，Find/Create with Map，使用 SQL 表达式、Context Valuer 进行 CRUD
-* <i class="fa fa-rocket" aria-hidden="true"></i> SQL 构建器，Upsert，锁，Optimizer/Index/Comment Hint，命名参数，子查询
-* <i class="fa fa-rocket" aria-hidden="true"></i> 复合主键，索引，约束
-* <i class="fa fa-rocket" aria-hidden="true"></i> 自动迁移
-* <i class="fa fa-rocket" aria-hidden="true"></i> 自定义 Logger
-* <i class="fa fa-rocket" aria-hidden="true"></i> 灵活的可扩展插件 API：Database Resolver（多数据库，读写分离）、Prometheus...
-* <i class="fa fa-rocket" aria-hidden="true"></i> 每个特性都经过了测试的重重考验
-* <i class="fa fa-rocket" aria-hidden="true"></i> 开发者友好
+* <i class="fa fa-rocket" aria-hidden="true"></i> 安全
+<br>
+安全是保护您和您的信息免受黑客和恶意软件攻击的关键因素。我们致力于提供最高级别的安全保障，保护您的数据不受任何风险威胁。我们使用最新的安全技术和流程来确保您的数据安全，包括加密存储和传输，双因素身份验证等。您可以放心使用我们的产品，无需担心数据泄露或机密信息被盗取的风险。
+<br>
+* <i class="fa fa-rocket" aria-hidden="true"></i> 审计
+<br>
+我们的产品被设计为可审计性，意味着我们的工作始终受到监督。我们定期进行内部和外部审计，以确保我们的系统和流程符合各种标准和法规的要求。我们的审计过程旨在发现并纠正任何潜在的漏洞和缺陷，并持续改进我们的服务和产品。我们的目标是成为透明和可靠的合作伙伴，始终保持合规性和可信性。
+<br>
+* <i class="fa fa-rocket" aria-hidden="true"></i> 易用
+<br>
+我们的产品经过精心设计，旨在成为易用和直观的工具，即使是对于没有技术背景的用户。我们注重用户体验，并不断优化我们的产品，以最大程度地降低用户的工作量。我们的界面清晰简洁，无需任何学习就能使用，并提供完善的帮助文档和视频教程。我们相信，只有易用的产品才能真正提高用户的效率和生产力。
+<br>
+* <i class="fa fa-rocket" aria-hidden="true"></i> 稳定
+<br>
+我们的产品是基于稳定的基础设施和架构设计的，并定期进行负载测试和性能测试。我们致力于建立可靠的服务，并努力提供99.99%的服务可用性。我们具备故障转移和灾备恢复机制，以确保在任何情况下都能提供高质量和可靠的服务。无论您是个人用户还是企业用户，您都可以相信我们的产品是稳定和可靠的选择。
+<br>
