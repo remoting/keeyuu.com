@@ -1,0 +1,6 @@
+menu:
+  home: <i class="fa fa-home"></i>主页
+  docs: <i class="fa fa-book"></i>文档
+  faq: <i class="fa fa-tools"></i>常见问题
+  about: <i class="fa fa-cogs"></i>关于我们
+  search: 搜索文档...

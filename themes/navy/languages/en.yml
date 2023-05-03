@@ -1,0 +1,6 @@
+menu:
+  home: <i class="fa fa-home"></i>Home
+  docs: <i class="fa fa-book"></i>Docs 
+  faq: <i class="fa fa-cogs"></i>Faq
+  about: <i class="fa fa-github"></i>About
+  search: Search documents...

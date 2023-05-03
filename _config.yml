@@ -1,0 +1,36 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: IOPS
+subtitle: ' 跳板机 '
+description: ' 堡垒机 '
+keywords: ' 关键字 '
+author: remoting
+language: zh_CN
+timezone: Asia/Shanghai
+source_dir: pages
+skip_render: [driver/**, plugin/**, text.html]
+
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: http://iops.keeyuu.com
+permalink: :year/:month/:day/:title/
+
+# Writing
+new_post_name: :title.md # File name of new posts
+external_link:
+  enable: true # Open external links in new tab
+filename_case: 0
+relative_link: false
+highlight:
+  enable: true
+  line_number: false
+  auto_detect: true
+  tab_replace: '  '
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: navy  # based from hexo offical site
