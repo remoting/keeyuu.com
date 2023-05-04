@@ -1,8 +1,10 @@
 docs:
   setup:
     started: setup.html
+    proxy: proxy.html
   manual:
     index: manual.html
+    readme: readme.html
 
 gen:
   getting_started:
