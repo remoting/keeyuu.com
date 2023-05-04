@@ -13,4 +13,11 @@ sidebar:
     index: 使用手册
     readme: 快速开始
     proxy: 反向代理
-    
+  free:
+    first: 关于我们
+    free: 试用
+    about: 关于
+  about:
+    first: 关于我们
+    free: 试用
+    about: 关于

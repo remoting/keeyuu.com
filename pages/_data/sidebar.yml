@@ -6,22 +6,12 @@ docs:
     index: manual.html
     readme: readme.html
 
-gen:
-  getting_started:
-    overview: index.html
-  dynamic_sql:
-    overview: dynamic_sql.html
-    annotation: sql_annotation.html
-  dao:
-    overview: dao.html
-    create: create.html
-    query: query.html
-    update: update.html
-    delete: delete.html
-    transaction: transaction.html
-    associations: associations.html
-  database_to_structs:
-    overview: database_to_structs.html
-    gentool: gen_tool.html
-  tutorials:
-    gorm_clause: clause.html
+free:
+  first:
+    free: ../free
+    about: ../about
+ 
+about:
+  first:
+    free: ../free
+    about: ../about

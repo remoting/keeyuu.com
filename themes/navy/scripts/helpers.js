@@ -42,9 +42,10 @@ hexo.extend.helper.register('page_nav', function() {
   return result;
 });
 
-hexo.extend.helper.register('doc_sidebar', function(className) {
+hexo.extend.helper.register('doc_sidebar', function(className) { 
   var type = this.page.canonical_path.split('/')[0];
   var sidebar = this.site.data.sidebar[type];
+  //console.log(sidebar)
   var path = pathFn.basename(this.path);
   var result = '';
   var self = this;
