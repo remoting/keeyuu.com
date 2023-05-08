@@ -3,6 +3,7 @@ menu:
   docs: <i class="fa fa-book"></i>文档
   free: <i class="fa fa-tools"></i>试用
   about: <i class="fa fa-cogs"></i>关于
+  feedback: <i class="fa fa-comment"></i>反馈
   search: 搜索文档...
 
 sidebar:

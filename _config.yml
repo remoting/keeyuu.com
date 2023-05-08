@@ -11,8 +11,8 @@ author: keeyuu.com
 language: zh_CN
 timezone: Asia/Shanghai
 source_dir: pages
-start: ss
-skip_render: [driver/**, plugin/**, text.html]
+start: echo
+skip_render: [driver/**, plugin/**, feedback/**, text.html]
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
